@@ -3,8 +3,10 @@
  Name        : coobench.c
  Author      : Nikolay Botev
  Version     :
- Copyright   : Copyright (c) 2011 Nikolay Botev
- Description : Hello World in C, Ansi-style
+ Copyright   : Copyright (c) 2011 Nikolay Botev; SHA1 code derived from
+               libpurple
+ Description : SHA1 code derived from pidgin 2.10.0 source -
+               libpurple/ciphers/sha1.c
  ============================================================================
  */
 
