@@ -1,0 +1,1 @@
+Benchmark C implementation of the SHA1 algorithm (for comparison against Java performance, see https://github.com/bono8106/jvmoobench).
